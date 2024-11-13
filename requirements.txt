@@ -1,0 +1,7 @@
+python-telegram-bot[job-queue]
+pandas
+langchain_google_genai
+python-dotenv
+langchain
+langchain-community
+pydantic
